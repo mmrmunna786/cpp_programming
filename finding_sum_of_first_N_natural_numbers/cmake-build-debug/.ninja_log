@@ -1,0 +1,9 @@
+# ninja log v5
+1	1349	1757287452438153880	CMakeFiles/finding_sum_of_first_N_natural_numbers.dir/main.cpp.o	c79c6b82339584c8
+1351	1420	1757287452511482854	finding_sum_of_first_N_natural_numbers	81381f104b701b38
+2	1676	1757287943777025658	CMakeFiles/finding_sum_of_first_N_natural_numbers.dir/main.cpp.o	c79c6b82339584c8
+1676	1779	1757287943889245441	finding_sum_of_first_N_natural_numbers	81381f104b701b38
+3	1070	1757288042220904920	CMakeFiles/finding_sum_of_first_N_natural_numbers.dir/main.cpp.o	c79c6b82339584c8
+1070	1152	1757288042308405977	finding_sum_of_first_N_natural_numbers	81381f104b701b38
+2	1750	1757288134809553358	CMakeFiles/finding_sum_of_first_N_natural_numbers.dir/main.cpp.o	c79c6b82339584c8
+1750	1841	1757288134904494649	finding_sum_of_first_N_natural_numbers	81381f104b701b38

@@ -1,0 +1,3 @@
+/Users/munnarahman/Documents/cpp_programming/finding_sum_of_first_N_natural_numbers/cmake-build-debug/CMakeFiles/finding_sum_of_first_N_natural_numbers.dir
+/Users/munnarahman/Documents/cpp_programming/finding_sum_of_first_N_natural_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/munnarahman/Documents/cpp_programming/finding_sum_of_first_N_natural_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
